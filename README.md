@@ -1,3 +1,5 @@
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/c78027d0-8c62-407b-a08b-9689bf501f64" />
+
 # Wine Quality Prediction
 
 ##  Description du projet
